@@ -1,4 +1,2 @@
 # PartyInvitesRepo
 test commit
-
-adsf
