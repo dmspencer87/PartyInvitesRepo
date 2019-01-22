@@ -17,7 +17,7 @@ namespace PartyInvite.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "test About Page  test test test .";
+            ViewData["Message"] = "APPLICATION ABOUT PAGE";
 
             return View();
         }
