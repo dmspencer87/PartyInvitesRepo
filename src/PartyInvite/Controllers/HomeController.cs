@@ -17,7 +17,7 @@ namespace PartyInvite.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "adsf ZXCapplication description page.";
+            ViewData["Message"] = "DISCRIPTIONS .";
 
             return View();
         }
